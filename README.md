@@ -11,6 +11,4 @@ O BuscaBR cria códigos fonéticos para pesquisa de nomes e produtos como meio d
 
 # Exemplo de respostas
 
-Rafael Brendolan | RF BMR
-Ligia Maestro    | RJ MT
-Blaise Pascal    | BS PSK
+Rafael Brendolan = RF BMR, Ligia Maestro = RJ MT, Blaise Pascal = BS PSK.
